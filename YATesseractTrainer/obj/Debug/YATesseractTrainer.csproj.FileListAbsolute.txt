@@ -1,0 +1,10 @@
+C:\Users\azeemdin\source\repos\YATesseractTrainer\YATesseractTrainer\bin\Debug\YATesseractTrainer.exe.config
+C:\Users\azeemdin\source\repos\YATesseractTrainer\YATesseractTrainer\bin\Debug\YATesseractTrainer.exe
+C:\Users\azeemdin\source\repos\YATesseractTrainer\YATesseractTrainer\bin\Debug\YATesseractTrainer.pdb
+C:\Users\azeemdin\source\repos\YATesseractTrainer\YATesseractTrainer\obj\Debug\YATesseractTrainer.csprojAssemblyReference.cache
+C:\Users\azeemdin\source\repos\YATesseractTrainer\YATesseractTrainer\obj\Debug\YATesseractTrainer.Form1.resources
+C:\Users\azeemdin\source\repos\YATesseractTrainer\YATesseractTrainer\obj\Debug\YATesseractTrainer.Properties.Resources.resources
+C:\Users\azeemdin\source\repos\YATesseractTrainer\YATesseractTrainer\obj\Debug\YATesseractTrainer.csproj.GenerateResource.cache
+C:\Users\azeemdin\source\repos\YATesseractTrainer\YATesseractTrainer\obj\Debug\YATesseractTrainer.csproj.CoreCompileInputs.cache
+C:\Users\azeemdin\source\repos\YATesseractTrainer\YATesseractTrainer\obj\Debug\YATesseractTrainer.exe
+C:\Users\azeemdin\source\repos\YATesseractTrainer\YATesseractTrainer\obj\Debug\YATesseractTrainer.pdb
